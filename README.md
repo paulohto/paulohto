@@ -16,8 +16,9 @@ Hello! My name is **Paulo Henrique Oliveira**,
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
+<img src="https://avatars.githubusercontent.com/u/31867515?s=200&v=4" width="50" height="50"/>
+
 
 
 </div>
@@ -27,20 +28,23 @@ Hello! My name is **Paulo Henrique Oliveira**,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60" /> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
+  <img src="https://ww1.freelogovectors.net/wp-content/uploads/2018/12/ibm-watson-logo.png" width="52" height="50"/>
 </div>
 
 ## Database
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/cloudant.svg" width="55" height="55"/>
 </div>
 
 ## Badges
 <div style="display: inline-block;">
+
 <a href="https://www.credly.com/badges/b458a919-a9b4-4f18-930b-3b196cc4ce3b/public_url" target="_blank">
-<img src="https://images.credly.com/size/680x680/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" alt="HTML tutorial" style="width:80px;height:80px;">
+<img src="https://images.credly.com/size/680x680/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" alt="HTML tutorial" style="width:80px;height:80px;margin: 80px;">
 </a>
 
 <a href="https://www.credly.com/badges/63de8bc2-1f57-4906-9896-b08708ea8c4e/public_url" target="_blank">
@@ -52,8 +56,9 @@ Hello! My name is **Paulo Henrique Oliveira**,
 </a>
 
 <a href="https://www.credly.com/badges/99b7b252-fc65-48db-b19c-4e118348d2db/public_url" target="_blank">
-<img src="https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="HTML tutorial" style="width:80px;height:80px;">
+<img src="https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="HTML tutorial" style="width:80px;height:80px; ">
 </a>
+
 </div>
 
 ## 
