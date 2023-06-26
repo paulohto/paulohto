@@ -31,15 +31,16 @@ Hello! My name is **Paulo Henrique Oliveira**,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60" /> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
-<a href="[https://cloud.ibm.com/functions/](https://www.ibm.com/br-pt/products/watson-assistant?utm_content=SRCWW&p1=Search&p4=43700074936292775&p5=p&gclid=Cj0KCQjwy9-kBhCHARIsAHpBjHgcKTJ2BhQFhTuR47mjwNuSZwABRN1rbbRT_M0AST40lz3fm1i0ZMsaArW2EALw_wcB&gclsrc=aw.ds)" target="_blank">
+<a href="https://www.ibm.com/br-pt/products/watson-assistant" target="_blank">
 <img src="https://ww1.freelogovectors.net/wp-content/uploads/2018/12/ibm-watson-logo.png" width="52" height="50"/> <a/>
 </div>
 
 ## Database
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/cloudant.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/>
+<a href="https://www.ibm.com/products/cloudant" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/cloudant.svg" width="55" height="55"/> <a/>
 </div>
 
 ## Badges
