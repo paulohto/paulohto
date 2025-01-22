@@ -8,33 +8,42 @@
 
 
 Hello! My name is **Paulo Henrique Oliveira**,
-</br>Developper beginner. Experienced marketing professional.
+</br>Java Developper. Experienced marketing professional.
 
+##
+###
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/>
+</div>
 
-<!-- ## Ferramentas e Tecnologias -->
-## Backend
+<!-- ## Ferramentas  -->
+<!-- ## Backend -->
+<!-- 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
 <a href="https://cloud.ibm.com/functions/" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/31867515?s=200&v=4" width="50" height="50"/> <a/>
-
-
-
 </div>
+-->
 
+<!-- 
 ## Frontend
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60" /> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
 <a href="https://www.ibm.com/br-pt/products/watson-assistant" target="_blank">
 <img src="https://ww1.freelogovectors.net/wp-content/uploads/2018/12/ibm-watson-logo.png" width="52" height="50"/> <a/>
 </div>
+-->
 
+<!--
 ## Database
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
@@ -63,8 +72,9 @@ Hello! My name is **Paulo Henrique Oliveira**,
 </a>
 
 </div>
+-->
 
-## 
+ ###
 <div>
 <a href="https://github.com/paulohto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohto&layout=compact&langs_count=7&theme=dracula"/>
